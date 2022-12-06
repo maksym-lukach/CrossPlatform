@@ -1,0 +1,15 @@
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\bin\Debug\net6.0\CrossplatformLab3.exe
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\bin\Debug\net6.0\CrossplatformLab3.deps.json
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\bin\Debug\net6.0\CrossplatformLab3.runtimeconfig.json
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\bin\Debug\net6.0\CrossplatformLab3.dll
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\bin\Debug\net6.0\CrossplatformLab3.pdb
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\obj\Debug\net6.0\CrossplatformLab3.csproj.AssemblyReference.cache
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\obj\Debug\net6.0\CrossplatformLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\obj\Debug\net6.0\CrossplatformLab3.AssemblyInfoInputs.cache
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\obj\Debug\net6.0\CrossplatformLab3.AssemblyInfo.cs
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\obj\Debug\net6.0\CrossplatformLab3.csproj.CoreCompileInputs.cache
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\obj\Debug\net6.0\CrossplatformLab3.dll
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\obj\Debug\net6.0\refint\CrossplatformLab3.dll
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\obj\Debug\net6.0\CrossplatformLab3.pdb
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\obj\Debug\net6.0\CrossplatformLab3.genruntimeconfig.cache
+C:\Users\Comp\Desktop\Builds\CrossplatformLab3\CrossplatformLab3\obj\Debug\net6.0\ref\CrossplatformLab3.dll
