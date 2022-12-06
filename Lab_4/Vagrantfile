@@ -1,0 +1,24 @@
+Vagrant.configure("2") do |config|
+
+  config.vm.network "forwarded_port", guest: 5002, host: 5000
+
+  config.vm.box = "bento/ubuntu-18.04"
+
+  config.vm.box_check_update=false
+  config.ssh.insert_key=false
+
+  config.vm.hostname="ubuntu-local-test3"
+
+  config.vm.provision "shell", inline:"wget https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb"
+  config.vm.provision "shell", inline:"sudo dpkg -i packages-microsoft-prod.deb"
+
+  config.vm.provision "shell", inline:"sudo apt-get update"
+  config.vm.provision "shell", inline:"sudo apt-get install -y dotnet-sdk-6.0"
+  
+  config.vm.provision "shell", inline:"sudo apt-get update"
+  
+  config.vm.provision "shell", inline: "dotnet tool install --global --add-source http://192.168.0.1:8080/v3/index.json aliz4"
+
+  config.vm.synced_folder ".", "/vagrant_data"
+
+end

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>aliz4</id>
+    <version>1.0.0</version>
+    <authors>aliz4</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="D:\University\4course\CrossPlatform\aliz4\aliz4\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\aliz4.dll" target="tools\net6.0\any\aliz4.dll" />
+    <file src="D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\aliz4.runtimeconfig.json" target="tools\net6.0\any\aliz4.runtimeconfig.json" />
+    <file src="D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\aliz4.pdb" target="tools\net6.0\any\aliz4.pdb" />
+    <file src="D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\net6.0\any\McMaster.Extensions.CommandLineUtils.dll" />
+    <file src="D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\LabsLibrary.dll" target="tools\net6.0\any\LabsLibrary.dll" />
+    <file src="D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\LabsLibrary.pdb" target="tools\net6.0\any\LabsLibrary.pdb" />
+    <file src="D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\aliz4.deps.json" target="tools\net6.0\any\aliz4.deps.json" />
+  </files>
+</package>

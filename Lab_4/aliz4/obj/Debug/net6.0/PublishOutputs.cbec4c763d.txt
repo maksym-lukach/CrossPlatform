@@ -1,0 +1,8 @@
+D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\aliz4.exe
+D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\aliz4.dll
+D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\aliz4.runtimeconfig.json
+D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\aliz4.pdb
+D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\McMaster.Extensions.CommandLineUtils.dll
+D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\LabsLibrary.dll
+D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\LabsLibrary.pdb
+D:\University\4course\CrossPlatform\aliz4\aliz4\bin\Debug\net6.0\publish\aliz4.deps.json
